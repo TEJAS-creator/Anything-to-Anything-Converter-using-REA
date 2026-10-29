@@ -235,6 +235,3 @@ ALL 12 TEST SUITES PASSED! LOCAL CONVERTERS VERIFIED 100%!
 
 ---
 
-## 📜 License
-MIT License. Free for personal, commercial, and educational use.
-
